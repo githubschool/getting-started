@@ -1,0 +1,2 @@
+If you exchange all occurances of "i" with "1", that makes your text just
+so much cooler.
